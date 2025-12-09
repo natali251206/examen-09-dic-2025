@@ -1,6 +1,6 @@
    # EXAMEN FINAL 09-DIC-25 TURNO MAÑANA (MARTES)
    # REGULAR COMPLETO
-   ## TECNICATURA DE DESPACHO
+   ## TECNICATURA DE DESPACHO.
    
    ## Precios comparativos de Artículos de Navidad Posadas y Encarnación.
 
